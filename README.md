@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Sanskruti Tidke! 👋<br>- 💻 Currently working on: Vehicle Movement Analysis and Insight Generation using Edge AI<br>- 🌱 Learning more about: Edge AI, YOLO, and OCR technologies<br>- 🎓 Education: Bachelor's in Computer Science<br>- I enjoy working on innovative projects and am always eager to learn new technologies.<br>
+Hello, I'm Sanskruti Tidke! 👋<br>- 💻 Currently working on: Vehicle Movement Analysis and Insight Generation using Edge AI<br>- 🌱 Learning more about: Edge AI, YOLO, and OCR technologies<br>- 🎓 Education: Bachelor's in Computer Science and engineering<br>- I enjoy working on innovative projects and always eager to learn new technologies.<br>
 
 
 ## 🌐 Socials:
