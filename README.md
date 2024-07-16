@@ -22,4 +22,6 @@ Hello, I'm Sanskruti Tidke! 👋<br>- 💻 Currently working on: Vehicle Movemen
 ## 📧 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskrutitidke51@gmail.com)
 
+sanskrutitidke51@gmail.com
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
