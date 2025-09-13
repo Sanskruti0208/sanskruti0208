@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello! I'm Sanskruti Tidke. 👋
-🎓 Bachelor’s in Computer Science and Engineering
+Hello! I'm Sanskruti Tidke. 👋<br>
+🎓 Bachelor’s in Computer Science and Engineering<br>
 🌱 Curious and passionate about learning new things<br>
 
 ## 🌐 Socials:
